@@ -10,7 +10,7 @@
 - Docker (optional)
 
 ## Quick Start
-```bash
+(bash)```
 cp .env.example .env
 pip install -r requirements.txt
 python moderator-bot.py
