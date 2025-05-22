@@ -1,4 +1,4 @@
-# AI Content Moderator Bot
+# AI Moderator Bot
 
 ## Features
 - Toxicity detection using RuBERT model
